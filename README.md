@@ -1,5 +1,5 @@
 # TablePlus
-Report bug and request new features. MySQL and Oracle is under development.
+Report bug and request new features. MySQL and Oracle are under development.
 
 Thank for using TablePlus,
 
