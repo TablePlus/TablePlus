@@ -12,6 +12,7 @@ Some of screens shot
 ![Welcome-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/welcome.png "Welcome screen")
 ![Light-Theme-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/light.png "Light Them screen")
 ![Dark-Theme-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/gray.png "Dark Them screen")
+![Query-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/query.png "Query screen")
 
 Thank for using TablePlus,
 
