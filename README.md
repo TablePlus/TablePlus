@@ -4,6 +4,7 @@
 Download: [here](https://tableplus.io)
  
 Report bug and request new feature: [here](https://github.com/TablePlus/TablePlus/issues)
+
 Email support: support@tableplus.io
 
 MySQL and Oracle are under development so a lot of features will be added day by day
