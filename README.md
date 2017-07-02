@@ -9,7 +9,7 @@ Email support: support@tableplus.io
 
 MySQL and Oracle are under development so a lot of features will be added day by day
 
-Some of screenshots
+Screenshots
 
 ![Welcome-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/welcome.png "Welcome screen")
 ![Light-Theme-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/light.png "Light Them screen")
