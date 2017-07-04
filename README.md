@@ -1,5 +1,5 @@
-## TablePlus Tool for PostgreSQL, MySQL
-#### Native, Beautiful and High Performance
+## Tool for Relational Database
+#### Native, Beautiful, Friendly
 
 Download: [here](https://tableplus.io)
  
