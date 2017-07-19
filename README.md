@@ -3,7 +3,7 @@
 
 Download: [here](https://tableplus.io)
  
-Report bug and request new feature: [here](https://github.com/TablePlus/TablePlus/issues)
+Report bug and request new feature: [here](https://github.com/TablePlus/TablePlus/issues) Team will response less than one hour since submission.
 
 Email support: support@tableplus.io
 
