@@ -3,13 +3,16 @@
 
 Download: [here](https://tableplus.io)
  
-Report bug and request new feature: [here](https://github.com/TablePlus/TablePlus/issues) Team will response less than one hour since your submission.
+Report bugs/request new feature: [issues](https://github.com/TablePlus/TablePlus/issues).
+
+Work in Progress: [project](https://github.com/TablePlus/TablePlus/projects/1).
+
+Official pages: [Medium](http://medium.com/@huyphams), [Facebook](http://facebook.com/tableplusapp), [Twitter](http://twitter.com/tableplus)
 
 Email support: support@tableplus.io
 
-MySQL and Oracle are under development so a lot of features will be added day by day
 
-Screenshots
+App screenshots:
 
 ![Welcome-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/welcome.png "Welcome screen")
 ![Light-Theme-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/light.png "Light Them screen")
