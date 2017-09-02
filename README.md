@@ -4,6 +4,8 @@
 > TablePlus is a Native App which helps you easily edit Database data and Structure.
 > TablePlus currently Supports: PostgreSQL, MySQL, RedShift, MariaDB... High-end security ensured
 
+This repository is currently being used for hosting the official issue & bug tracker of TablePlus.
+
 Download: [here](https://tableplus.io)
  
 Report bugs/request new feature: [issues](https://github.com/TablePlus/TablePlus/issues).
