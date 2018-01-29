@@ -20,7 +20,7 @@ Email support: huy@tableplusapp.com
 App screenshots:
 
 ![Welcome-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/welcome.png "Welcome screen")
-![Light-Theme-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/workspace.png "Light Them screen")
+![Workspace-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/workspace.png "Workspace")
 ![Dark-Theme-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/gray.png "Dark Them screen")
 
 TablePlus is free and no limit trial time, but i’m very happy if you purchase a license to support develop it.
