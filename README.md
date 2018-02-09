@@ -10,7 +10,7 @@ Download: [here](https://tableplus.io)
  
 Report bugs/request new feature: [issues](https://github.com/TablePlus/TablePlus/issues).
 
-Work in Progress: [project](https://github.com/TablePlus/TablePlus/projects/1).
+Public road map: [project](https://github.com/TablePlus/TablePlus/projects/1).
 
 Official pages: [Medium](http://medium.com/@huyphams), [Facebook](http://facebook.com/tableplusapp), [Twitter](http://twitter.com/tableplus)
 
