@@ -4,4 +4,4 @@
 
 3. The steps to reproduce this issue:
 
-Noted: If the bug is related to data, please attach an example SQL.
+Noted: If the bug is related to data, please attach an example SQL data.
