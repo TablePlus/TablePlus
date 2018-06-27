@@ -1,7 +1,7 @@
 ## Tool for Relational Database
 #### Native, Beautiful, Friendly
 
-> TablePlus is a Native App which helps you easily edit Database data and Structure.
+> TablePlus is a native app which helps you easily edit database data and structure.
 > TablePlus currently Supports: PostgreSQL, MySQL, RedShift, MariaDB... High-end security ensured
 
 This repository is currently being used for hosting the official issue & bug tracker of TablePlus.
@@ -23,6 +23,6 @@ App screenshots:
 ![Workspace-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/workspace.png "Workspace")
 ![Dark-Theme-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/gray.png "Dark Them screen")
 
-TablePlus is free and no limit trial time, but i’m very happy if you purchase a license to support develop it.
+TablePlus is free and has no limit on trial time, but I'd be very happy if you purchased a license to support development.
 
 TablePlus team.
