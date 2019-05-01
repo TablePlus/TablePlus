@@ -14,7 +14,7 @@ Public road map: [project](https://github.com/TablePlus/TablePlus/projects/1).
 
 Official pages: [Medium](http://medium.com/@huyphams), [Facebook](http://facebook.com/tableplusapp), [Twitter](http://twitter.com/tableplus)
 
-Author: huy@tableplusapp.com
+Author: huy@tableplus.com
 
 
 App screenshots:
