@@ -6,7 +6,7 @@
 
 This repository is currently being used for hosting the official issue & bug tracker of TablePlus.
 
-Download: [here](https://tableplus.io)
+Download: [here](https://tableplus.com)
  
 Report bugs/request new feature: [issues](https://github.com/TablePlus/TablePlus/issues).
 
