@@ -1,4 +1,4 @@
-## Tool for Relational Database
+## Tool for Relational Databases
 #### Native, Beautiful, Friendly
 
 > TablePlus is a native app which helps you easily edit database data and structure.
