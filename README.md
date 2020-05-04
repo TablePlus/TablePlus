@@ -19,9 +19,9 @@ Author: huy@tableplus.com
 
 App screenshots:
 
-![Welcome-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/welcome.png "Welcome screen")
-![Workspace-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/workspace.png "Workspace")
-![Dark-Theme-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/gray.png "Dark Them screen")
+![Welcome-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/welcome-screen.png "Welcome screen")
+![Workspace-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/workspace-light.png "Workspace")
+![Dark-Theme-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/workspace-dark.png "Dark Them screen")
 
 TablePlus is free and has no limit on trial time, but I'd be very happy if you purchased a license to support development.
 
