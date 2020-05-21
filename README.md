@@ -16,6 +16,7 @@ Official pages: [Medium](http://medium.com/@huyphams), [Facebook](http://faceboo
 
 Author: huy@tableplus.com
 
+Need to import Sequel Pro connections? Check out [TP Importer](https://github.com/brandonjjon/tp-importer)
 
 App screenshots:
 
