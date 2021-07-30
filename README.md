@@ -8,7 +8,7 @@ This repository is currently being used for hosting the official issue & bug tra
 
 Download: [here](https://tableplus.com)
  
-Report bugs/request new feature: [issues](https://github.com/TablePlus/TablePlus/issues).
+Report bugs: [issues](https://github.com/TablePlus/TablePlus/issues).
 
 Public road map: [project](https://github.com/TablePlus/TablePlus/projects/1).
 
