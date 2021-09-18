@@ -1,4 +1,4 @@
-### Please answer the questions below, please do not ignore it or your issue will be closed. It helps us to track the issue.
+### Please answer the questions below, it helps us to keep track of the issue. Please do not ignore it or your issue will be closed.
 
 1. Which driver are you using and version of it (Ex: PostgreSQL 10.0):
 
