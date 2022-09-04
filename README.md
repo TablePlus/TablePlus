@@ -2,7 +2,7 @@
 <h3 align="middle">A Native, Beautiful Tool for Relational Databases</h3>
 
 <p align="center">
-    <a href="https://tableplus.com">
+    <a href="https://tableplus.com/download">
         <img src="https://img.shields.io/badge/-Download-ff9600?style=for-the-badge" alt="Download">
     </a>
     <a href="https://github.com/TablePlus/TablePlus/issues">
