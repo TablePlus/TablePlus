@@ -1,5 +1,6 @@
 ---
 name: Bug Report
+about: You're having technical issues. 🐞
 labels: 'bug'
 ---
 
